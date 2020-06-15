@@ -25,3 +25,4 @@ task:
     - mv --verbose $HOME/rpmbuild/RPMS/*/*.rpm .
   results_artifacts:
     path: '*.rpm'
+# does this work
